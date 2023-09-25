@@ -14,5 +14,9 @@
             "aDrive.exe",
             "阿里云盘"
         ]
+    ],
+    "post_install": [
+        "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
+        "Remove-Item \"$dir\\`$TEMP\" -Force -Recurse"
     ]
 }
