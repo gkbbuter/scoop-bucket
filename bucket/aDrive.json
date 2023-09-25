@@ -7,7 +7,6 @@
         "url": "https://www.aliyundrive.com/protocol/service"
     },
     "url": "https://cdn.aliyundrive.net/downloads/apps/desktop/aDrive.exe",
-    "hash": "SHA1:1fd3300346b976f5556abbca9c109257e9ae90a9",
     "bin": "aDrive.exe",
     "shortcuts": [
         [
