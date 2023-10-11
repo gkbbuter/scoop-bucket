@@ -5,7 +5,7 @@
     "license": "MIT",
     "url": "https://github.com/gkbbuter/scoop-bucket/releases/download/v1.0.0/PDManer-win_v4.6.3.exe#/dl.7z",
     "hash": "61001159f96bf26f7e578cddb503be8a27f6749a4120520497f0d4420d1c8851",
-    "bin": "PDManer-win_v4.6.3.exe",
+    "bin": "PDManer.exe",
     "shortcuts": [
         [
             "PDManer.exe",
